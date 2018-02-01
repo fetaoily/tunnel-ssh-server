@@ -1,0 +1,8 @@
+{
+  "name": "tunnel-ssh-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fetaoily/tunnel-ssh-server.git",
+  "author": "fangertao <fetaoily@foxmail.com>",
+  "license": "MIT"
+}
